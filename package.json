@@ -1,0 +1,11 @@
+{
+  "name": "SpockPaperScissors",
+  "version": "1.0.0",
+  "description": "Rock Scissors Paper variant with additional outcomes (Spock, lizard, pen, sword)",
+  "main": "rspalator.js",
+  "scripts": {
+    "test": "node rspalatorTest.js"
+  },
+  "author": "lucsan@zencorp.co.uk",
+  "license": "ISC"
+}
